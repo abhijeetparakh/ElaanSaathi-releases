@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "updated": "2026-11-09",
- "checked": "2026-11-09 18:24 UTC",
+ "checked": "2026-11-09 18:27 UTC",
  "rule": "Only sources whose licence allows business/commercial use with no payment and no credit line. Each site's licence page is re-checked before it is added.",
  "sites": [
   {
@@ -259,6 +259,78 @@
      "seconds": 232,
      "licence": "Public domain",
      "page": "https://commons.wikimedia.org/wiki/File:Alexander_Glazunov_-_chant_du_menestrel,_op._71.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream Op. 61 Song with choir (Mendelssohn) European Archive",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/A_Midsummer_Night%27s_Dream_Op._61_Song_with_choir_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Song_with_choir_%28Mendelssohn%29_European_Archive.ogg.mp3",
+     "size": 4053908,
+     "seconds": 264,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Song_with_choir_(Mendelssohn)_European_Archive.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream, Op. 61 - Nocturne",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/A_Midsummer_Night%27s_Dream%2C_Op._61_-_Nocturne.ogg/A_Midsummer_Night%27s_Dream%2C_Op._61_-_Nocturne.ogg.mp3",
+     "size": 4824926,
+     "seconds": 314,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream,_Op._61_-_Nocturne.ogg"
+    },
+    {
+     "title": "Albinoni, Concerto for Oboe and Strings No. 2 in D minor, Op. 9, II. Adagio",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_II._Adagio.ogg/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_II._Adagio.ogg.mp3",
+     "size": 6400956,
+     "seconds": 258,
+     "licence": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Albinoni,_Concerto_for_Oboe_and_Strings_No._2_in_D_minor,_Op._9,_II._Adagio.ogg"
+    },
+    {
+     "title": "Alexander Scriabin - prelude no. 1, op. 67",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Alexander_Scriabin_-_prelude_no._1%2C_op._67.ogg/Alexander_Scriabin_-_prelude_no._1%2C_op._67.ogg.mp3",
+     "size": 2572868,
+     "seconds": 117,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Alexander_Scriabin_-_prelude_no._1,_op._67.ogg"
+    },
+    {
+     "title": "Antonin Dvorak - symphony no. 9 in e minor 'from the new world', op. 95 - i. adagio - allegro molto",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_i._adagio_-_allegro_molto.ogg/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_i._adagio_-_allegro_molto.ogg.mp3",
+     "size": 16278077,
+     "seconds": 605,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27,_op._95_-_i._adagio_-_allegro_molto.ogg"
+    },
+    {
+     "title": "Antonin Dvorak - symphony no. 9 in e minor 'from the new world', op. 95 - ii. largo",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_ii._largo.ogg/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_ii._largo.ogg.mp3",
+     "size": 18305287,
+     "seconds": 694,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27,_op._95_-_ii._largo.ogg"
+    },
+    {
+     "title": "Bach-Siloti, Prelude in B minor (J. S. Bach, arranged Siloti), arrangement of Prelude in E minor BWV 855a",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/Bach-Siloti%2C_Prelude_in_B_minor_%28J._S._Bach%2C_arranged_Siloti%29%2C_arrangement_of_Prelude_in_E_minor_BWV_855a.ogg/Bach-Siloti%2C_Prelude_in_B_minor_%28J._S._Bach%2C_arranged_Siloti%29%2C_arrangement_of_Prelude_in_E_minor_BWV_855a.ogg.mp3",
+     "size": 5395179,
+     "seconds": 266,
+     "licence": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Bach-Siloti,_Prelude_in_B_minor_(J._S._Bach,_arranged_Siloti),_arrangement_of_Prelude_in_E_minor_BWV_855a.ogg"
+    },
+    {
+     "title": "Beethoven - String Quartet No. 6 in B flat major, Op. 18 No. 6 - II. Adagio, ma non troppo (Musopen String Quartet)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_II._Adagio%2C_ma_non_troppo_%28Musopen_String_Quartet%29.flac/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_II._Adagio%2C_ma_non_troppo_%28Musopen_String_Quartet%29.flac.mp3",
+     "size": 9155070,
+     "seconds": 422,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_String_Quartet_No._6_in_B_flat_major,_Op._18_No._6_-_II._Adagio,_ma_non_troppo_(Musopen_String_Quartet).flac"
+    },
+    {
+     "title": "Beethoven StringQuartetNo.6inBFlatMajorOp.18 LudwigVanBeethoven-StringQuartetNo.6InBFlatMajorOp.18No.6-02-AdagioMaNonTroppo",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Beethoven_StringQuartetNo.6inBFlatMajorOp.18_LudwigVanBeethoven-StringQuartetNo.6InBFlatMajorOp.18No.6-02-AdagioMaNonTroppo.ogg/Beethoven_StringQuartetNo.6inBFlatMajorOp.18_LudwigVanBeethoven-StringQuartetNo.6InBFlatMajorOp.18No.6-02-AdagioMaNonTroppo.ogg.mp3",
+     "size": 8667730,
+     "seconds": 422,
+     "licence": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_StringQuartetNo.6inBFlatMajorOp.18_LudwigVanBeethoven-StringQuartetNo.6InBFlatMajorOp.18No.6-02-AdagioMaNonTroppo.ogg"
     }
    ]
   },
@@ -298,6 +370,94 @@
      "seconds": 298,
      "licence": "Public domain",
      "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Scherzo_(Mendelssohn)_European_Archive.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream Op. 61 Wedding March (Mendelssohn) European Archive",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_%28Mendelssohn%29_European_Archive.ogg.mp3",
+     "size": 4585786,
+     "seconds": 294,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_(Mendelssohn)_European_Archive.ogg"
+    },
+    {
+     "title": "Albinoni, Concerto for Oboe and Strings No. 2 in D minor, Op. 9, I. Allegro e con presto",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_I._Allegro_e_con_presto.ogg/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_I._Allegro_e_con_presto.ogg.mp3",
+     "size": 5808055,
+     "seconds": 230,
+     "licence": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Albinoni,_Concerto_for_Oboe_and_Strings_No._2_in_D_minor,_Op._9,_I._Allegro_e_con_presto.ogg"
+    },
+    {
+     "title": "Albinoni, Concerto for Oboe and Strings No. 2 in D minor, Op. 9, III. Allegro",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_III._Allegro.ogg/Albinoni%2C_Concerto_for_Oboe_and_Strings_No._2_in_D_minor%2C_Op._9%2C_III._Allegro.ogg.mp3",
+     "size": 5151776,
+     "seconds": 205,
+     "licence": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Albinoni,_Concerto_for_Oboe_and_Strings_No._2_in_D_minor,_Op._9,_III._Allegro.ogg"
+    },
+    {
+     "title": "Antonin Dvorak - symphony no. 9 in e minor 'from the new world', op. 95 - iii. molto vivace",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_iii._molto_vivace.ogg/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_iii._molto_vivace.ogg.mp3",
+     "size": 13647964,
+     "seconds": 506,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27,_op._95_-_iii._molto_vivace.ogg"
+    },
+    {
+     "title": "Antonin Dvorak - symphony no. 9 in e minor 'from the new world', op. 95 - iv. allegro con fuoco",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_iv._allegro_con_fuoco.ogg/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_iv._allegro_con_fuoco.ogg.mp3",
+     "size": 18773669,
+     "seconds": 703,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27,_op._95_-_iv._allegro_con_fuoco.ogg"
+    },
+    {
+     "title": "Bach, J S - Goldberg Variations, BWV988 - 17. Variation 16. Overture (Shelley Katz)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Bach%2C_J_S_-_Goldberg_Variations%2C_BWV988_-_17._Variation_16._Overture_%28Shelley_Katz%29.flac/Bach%2C_J_S_-_Goldberg_Variations%2C_BWV988_-_17._Variation_16._Overture_%28Shelley_Katz%29.flac.mp3",
+     "size": 2656092,
+     "seconds": 106,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Bach,_J_S_-_Goldberg_Variations,_BWV988_-_17._Variation_16._Overture_(Shelley_Katz).flac"
+    },
+    {
+     "title": "Beethoven - Coriolan Overture, Op. 62 (Musopen Symphony)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac/Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac.mp3",
+     "size": 13187471,
+     "seconds": 499,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Coriolan_Overture,_Op._62_(Musopen_Symphony).flac"
+    },
+    {
+     "title": "Beethoven - Egmont Overture, Op. 84 (Musopen Symphony)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/Beethoven_-_Egmont_Overture%2C_Op._84_%28Musopen_Symphony%29.flac/Beethoven_-_Egmont_Overture%2C_Op._84_%28Musopen_Symphony%29.flac.mp3",
+     "size": 14305691,
+     "seconds": 541,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Egmont_Overture,_Op._84_(Musopen_Symphony).flac"
+    },
+    {
+     "title": "Beethoven - String Quartet No. 6 in B flat major, Op. 18 No. 6 - I. Allegro con brio (Musopen String Quartet)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_I._Allegro_con_brio_%28Musopen_String_Quartet%29.flac/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_I._Allegro_con_brio_%28Musopen_String_Quartet%29.flac.mp3",
+     "size": 6523932,
+     "seconds": 281,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_String_Quartet_No._6_in_B_flat_major,_Op._18_No._6_-_I._Allegro_con_brio_(Musopen_String_Quartet).flac"
+    },
+    {
+     "title": "Beethoven - String Quartet No. 6 in B flat major, Op. 18 No. 6 - III. Scherzo (Musopen String Quartet)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_III._Scherzo_%28Musopen_String_Quartet%29.flac/Beethoven_-_String_Quartet_No._6_in_B_flat_major%2C_Op._18_No._6_-_III._Scherzo_%28Musopen_String_Quartet%29.flac.mp3",
+     "size": 5820681,
+     "seconds": 253,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_String_Quartet_No._6_in_B_flat_major,_Op._18_No._6_-_III._Scherzo_(Musopen_String_Quartet).flac"
+    },
+    {
+     "title": "Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - III. Scherzo. Allegro vivace (Musopen Symphony)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_III._Scherzo._Allegro_vivace_%28Musopen_Symphony%29.flac/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_III._Scherzo._Allegro_vivace_%28Musopen_Symphony%29.flac.mp3",
+     "size": 8819839,
+     "seconds": 349,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Symphony_No._3_in_E_flat_major,_Op._55_%27Eroica%27_-_III._Scherzo._Allegro_vivace_(Musopen_Symphony).flac"
     }
    ]
   }
