@@ -1,0 +1,305 @@
+{
+ "schema": 1,
+ "updated": "2026-11-09",
+ "checked": "2026-11-09 18:24 UTC",
+ "rule": "Only sources whose licence allows business/commercial use with no payment and no credit line. Each site's licence page is re-checked before it is added.",
+ "sites": [
+  {
+   "id": "pixabay",
+   "name": "Pixabay Music",
+   "url": "https://pixabay.com/music/",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "summary": "Free for commercial use. No payment and no credit needed. Only rule that matters for shops: don't resell or share the music files themselves.",
+   "checked": "2026-11-09"
+  },
+  {
+   "id": "commons",
+   "name": "Wikimedia Commons (Musopen recordings)",
+   "url": "https://commons.wikimedia.org/wiki/Category:Musopen",
+   "licence": "Public domain",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "summary": "Public domain classical recordings: free for any use, including business, with no conditions. Each track's licence is checked automatically before it is offered.",
+   "checked": "2026-11-09"
+  }
+ ],
+ "categories": [
+  {
+   "id": "calm",
+   "name": "Calm & Relaxing",
+   "about": "Soft background music for clinics, salons, spas and showrooms.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Relaxing music",
+     "url": "https://pixabay.com/music/search/relaxing/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Ambient",
+     "url": "https://pixabay.com/music/search/genre/ambient/"
+    }
+   ]
+  },
+  {
+   "id": "upbeat",
+   "name": "Happy & Upbeat",
+   "about": "Cheerful music for busy shops, garment stores and malls.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Upbeat music",
+     "url": "https://pixabay.com/music/search/upbeat/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Happy music",
+     "url": "https://pixabay.com/music/search/happy/"
+    }
+   ]
+  },
+  {
+   "id": "indian",
+   "name": "Indian & Bollywood Style",
+   "about": "Indian-style instrumentals and Bollywood-flavoured tracks.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Indian music",
+     "url": "https://pixabay.com/music/search/indian/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Bollywood style",
+     "url": "https://pixabay.com/music/search/bollywood/"
+    }
+   ]
+  },
+  {
+   "id": "devotional",
+   "name": "Devotional & Spiritual",
+   "about": "Peaceful spiritual music for temples, pooja stores and wellness centres.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Meditation / spiritual",
+     "url": "https://pixabay.com/music/search/genre/meditation%2Fspiritual/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Devotional",
+     "url": "https://pixabay.com/music/search/devotional/"
+    }
+   ]
+  },
+  {
+   "id": "flute",
+   "name": "Flute & Sitar",
+   "about": "Indian instrumental: bansuri flute, sitar and santoor.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Flute",
+     "url": "https://pixabay.com/music/search/flute/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Sitar",
+     "url": "https://pixabay.com/music/search/sitar/"
+    }
+   ]
+  },
+  {
+   "id": "piano",
+   "name": "Piano",
+   "about": "Gentle solo piano, good for jewellery stores and restaurants.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Solo piano",
+     "url": "https://pixabay.com/music/search/genre/solo%20piano/"
+    }
+   ]
+  },
+  {
+   "id": "lounge",
+   "name": "Lounge & Café",
+   "about": "Relaxed jazz and lounge music for cafés and restaurants.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Lounge",
+     "url": "https://pixabay.com/music/search/lounge/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Jazz",
+     "url": "https://pixabay.com/music/search/genre/traditional%20jazz/"
+    }
+   ]
+  },
+  {
+   "id": "festive",
+   "name": "Festive & Celebration",
+   "about": "For Diwali, weddings, sales and celebrations.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Diwali",
+     "url": "https://pixabay.com/music/search/diwali/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Wedding",
+     "url": "https://pixabay.com/music/search/wedding/"
+    },
+    {
+     "site": "pixabay",
+     "label": "Celebration",
+     "url": "https://pixabay.com/music/search/celebration/"
+    }
+   ]
+  },
+  {
+   "id": "kids",
+   "name": "Kids & Fun",
+   "about": "Playful music for toy shops, play areas and schools.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Kids",
+     "url": "https://pixabay.com/music/search/kids/"
+    }
+   ]
+  },
+  {
+   "id": "corporate",
+   "name": "Corporate & Showroom",
+   "about": "Clean, modern music for offices, banks and showrooms.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Corporate",
+     "url": "https://pixabay.com/music/search/corporate/"
+    }
+   ]
+  },
+  {
+   "id": "classical",
+   "name": "Classical",
+   "about": "Timeless classical music. Includes free starter packs you can download in one click.",
+   "links": [
+    {
+     "site": "pixabay",
+     "label": "Modern classical",
+     "url": "https://pixabay.com/music/search/genre/modern%20classical/"
+    },
+    {
+     "site": "commons",
+     "label": "Musopen recordings",
+     "url": "https://commons.wikimedia.org/wiki/Category:Musopen"
+    }
+   ],
+   "packs": [
+    "classical-calm",
+    "classical-bright"
+   ]
+  }
+ ],
+ "packs": [
+  {
+   "id": "classical-calm",
+   "name": "Calm Classical",
+   "source": "commons",
+   "tracks": [
+    {
+     "title": "Frederic Chopin - Nocturne Eb major Opus 9, number 2",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Frederic_Chopin_-_Nocturne_Eb_major_Opus_9%2C_number_2.ogg/Frederic_Chopin_-_Nocturne_Eb_major_Opus_9%2C_number_2.ogg.mp3",
+     "size": 7106900,
+     "seconds": 253,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_-_Nocturne_Eb_major_Opus_9,_number_2.ogg"
+    },
+    {
+     "title": "Frederic Chopin - nocturne no. 2 in e flat major, op. 55",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Frederic_Chopin_-_nocturne_no._2_in_e_flat_major%2C_op._55.ogg/Frederic_Chopin_-_nocturne_no._2_in_e_flat_major%2C_op._55.ogg.mp3",
+     "size": 8531505,
+     "seconds": 357,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_-_nocturne_no._2_in_e_flat_major,_op._55.ogg"
+    },
+    {
+     "title": "Frederic Chopin - nocturne no. 2 in e flat major, op. 62",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Frederic_Chopin_-_nocturne_no._2_in_e_flat_major%2C_op._62.ogg/Frederic_Chopin_-_nocturne_no._2_in_e_flat_major%2C_op._62.ogg.mp3",
+     "size": 11951160,
+     "seconds": 494,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_-_nocturne_no._2_in_e_flat_major,_op._62.ogg"
+    },
+    {
+     "title": "Edvard Grieg - piano concerto in a minor, op. 16 - ii. adagio",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Edvard_Grieg_-_piano_concerto_in_a_minor%2C_op._16_-_ii._adagio.ogg/Edvard_Grieg_-_piano_concerto_in_a_minor%2C_op._16_-_ii._adagio.ogg.mp3",
+     "size": 9888063,
+     "seconds": 381,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_-_piano_concerto_in_a_minor,_op._16_-_ii._adagio.ogg"
+    },
+    {
+     "title": "Franz Schubert - fantasy in c major op.15 d.760 'wanderer' - ii. adagio",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Franz_Schubert_-_fantasy_in_c_major_op.15_d.760_%27wanderer%27_-_ii._adagio.ogg/Franz_Schubert_-_fantasy_in_c_major_op.15_d.760_%27wanderer%27_-_ii._adagio.ogg.mp3",
+     "size": 7104770,
+     "seconds": 429,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Franz_Schubert_-_fantasy_in_c_major_op.15_d.760_%27wanderer%27_-_ii._adagio.ogg"
+    },
+    {
+     "title": "Alexander Glazunov - chant du menestrel, op. 71",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Alexander_Glazunov_-_chant_du_menestrel%2C_op._71.ogg/Alexander_Glazunov_-_chant_du_menestrel%2C_op._71.ogg.mp3",
+     "size": 5366717,
+     "seconds": 232,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Alexander_Glazunov_-_chant_du_menestrel,_op._71.ogg"
+    }
+   ]
+  },
+  {
+   "id": "classical-bright",
+   "name": "Bright Classical",
+   "source": "commons",
+   "tracks": [
+    {
+     "title": "Antonin Dvorak - carnival overture, op. 92",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Antonin_Dvorak_-_carnival_overture%2C_op._92.ogg/Antonin_Dvorak_-_carnival_overture%2C_op._92.ogg.mp3",
+     "size": 13783469,
+     "seconds": 656,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_carnival_overture,_op._92.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream Op. 61 Dance of Clowns (Mendelssohn) European Archive",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/A_Midsummer_Night%27s_Dream_Op._61_Dance_of_Clowns_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Dance_of_Clowns_%28Mendelssohn%29_European_Archive.ogg.mp3",
+     "size": 1847290,
+     "seconds": 120,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Dance_of_Clowns_(Mendelssohn)_European_Archive.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream Op. 61 Overture (Mendelssohn) European Archive",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/A_Midsummer_Night%27s_Dream_Op._61_Overture_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Overture_%28Mendelssohn%29_European_Archive.ogg.mp3",
+     "size": 12115706,
+     "seconds": 778,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Overture_(Mendelssohn)_European_Archive.ogg"
+    },
+    {
+     "title": "A Midsummer Night's Dream Op. 61 Scherzo (Mendelssohn) European Archive",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/A_Midsummer_Night%27s_Dream_Op._61_Scherzo_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Scherzo_%28Mendelssohn%29_European_Archive.ogg.mp3",
+     "size": 4544360,
+     "seconds": 298,
+     "licence": "Public domain",
+     "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Scherzo_(Mendelssohn)_European_Archive.ogg"
+    }
+   ]
+  }
+ ]
+}
